@@ -1,8 +1,5 @@
 <p align="center">
   <h1 align="center">Main SaaS Boilerplate to speed things up</h1>
-  <p align="center">
-    <a href="https://twitter.com/KolbySisk"><img src="/delete-me/github-banner.png" /></a>
-  </p>
 </p>
 
 <p align="center">
